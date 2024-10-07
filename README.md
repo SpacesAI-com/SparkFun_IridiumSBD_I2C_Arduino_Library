@@ -1,4 +1,4 @@
-# SparkFun IridiumSBD I2C Arduino Library
+º# SparkFun IridiumSBD I2C Arduino Library
 
 - This library can be installed through the Arduino Library Manager: please search for **IridiumSBDi2c**
 
@@ -60,5 +60,4 @@ Also includes a fix to let the serial Ring example work properly.
 
 ## License
 
-Like versions 1 and 2 of Mikal's library, this version is also distributed under a
-[GNU Lesser General Public Licence v2.1](LICENSE.md).
+Like versions 1 and 2 of Mikal's library, this version is also distributed under [GNU Lesser General Public Licence v2.1](LICENSE.md).
